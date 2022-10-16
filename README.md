@@ -1,1 +1,1 @@
-# ng-model.github.io
+# ng-model
